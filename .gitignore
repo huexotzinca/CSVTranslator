@@ -1,0 +1,10 @@
+*.iml
+.php_cs
+.php_cs.cache
+vendor
+composer.phar
+composer.lock
+phpunit.xml
+Guardfile*
+Gemfile*
+Watchmanfile*
